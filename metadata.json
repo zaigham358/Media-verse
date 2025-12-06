@@ -1,8 +1,5 @@
 {
   "name": "MediaVerse",
-  "description": "A unified AI creativity studio for generating Images, Videos, Audio, and Live multimodal interactions using Google Gemini models.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "description": "A modern media library manager with advanced features for organizing, viewing, and playing video, image, and audio files, featuring AI-powered category suggestions.",
+  "requestFramePermissions": []
 }
