@@ -1,0 +1,8 @@
+{
+  "name": "MediaVerse",
+  "description": "A unified AI creativity studio for generating Images, Videos, Audio, and Live multimodal interactions using Google Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
